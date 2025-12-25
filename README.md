@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working at **Kyndryl**
 - 🌱 Learning **Pandas, NumPy, Power BI**
-- 💡 Interested in **Data Analysis, Automation & Web Development**
+- 💡 Interested in **Data Analysis & Automation**
 - 📫 Reach me at: **sanchez_jds@hotmail.com**
 
 ---
