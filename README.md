@@ -11,6 +11,7 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working at **Kyndryl**
 - 🌱 Learning **Pandas, NumPy, Power BI**
+- 📖 Studying **Data Analysis and Visualization at Tecnológico de Costa Rica**
 - 💡 Interested in **Data Analysis & Automation**
 - 📫 Reach me at: **sanchez_jds@hotmail.com**
 
